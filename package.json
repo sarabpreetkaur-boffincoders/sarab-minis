@@ -1,0 +1,17 @@
+{
+  "name": "npm-maths-tricks-trial-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+ 
+  "keywords": [
+    "npm",
+    "npm-maths-tricks"
+  ],
+  "author": "sarbpreet",
+  "license": "ISC"
+  
+}
